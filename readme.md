@@ -1,6 +1,10 @@
 # 安装laravel5.5
     composer create-project laravel/laravel hg-blog --prefer-dist "5.5.*"
 
+# laravel手册
+- https://laravel.p2hp.com/cndocs/6.x/configuration
+- https://laravel-docs.catchadmin.com/
+
 # 初始化权限
     bash bin/app-init.sh
     生成如下文件:
